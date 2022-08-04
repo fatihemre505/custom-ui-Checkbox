@@ -40,6 +40,7 @@ body {
     border-radius: 50%;
     top: -4px;
     left: -4px;
+    transition: 0.25s left;
 }
 
 #custom:checked::before {
